@@ -1,0 +1,9 @@
+{
+	"name": "DF2-batch29",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "500063d2-8b76-47d1-bff8-4105d49e395f",
+		"tenantId": "06723335-8244-4f84-9e3c-cd30825c2045"
+	}
+}
