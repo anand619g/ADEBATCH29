@@ -17,6 +17,9 @@
 				"typeProperties": {
 					"method": "POST",
 					"url": "https://management.azure.com/subscriptions/3c3847b1-0098-4a1d-acce-0a6764250a16/resourceGroups/Patibandla/providers/Microsoft.DataFactory/factories/DF-Engineer/pipelines/RESTAPI/createRun?api-version=2018-06-01",
+					"body": {
+						"Message": "Temp"
+					},
 					"authentication": {
 						"type": "MSI",
 						"resource": "https://management.azure.com/"
